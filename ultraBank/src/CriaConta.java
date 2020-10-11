@@ -1,4 +1,4 @@
-
+// Classe criada apenas para testar funcionamento dos métodos.
 public class CriaConta {
 
 	public static void main(String[] args) {
